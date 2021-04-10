@@ -1,0 +1,20 @@
+<accounts>
+	
+	
+	<!-- blueprint - begin -->
+	
+	<account cod="a-00000001" name="account-name">
+		
+		<properties>
+			
+			
+		</properties>
+				
+	</account>
+		
+		
+	<!-- blueprint - end -->
+	
+</accounts>
+
+
